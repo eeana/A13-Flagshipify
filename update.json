@@ -1,6 +1,6 @@
 {
   "version": "v1",
   "versionCode": 1,
-  "zipUrl": "https://raw.githubusercontent.com/lznycx/A13-Flagshipify/A13-Flagshipify-v1.zip",
-  "changelog": "https://raw.githubusercontent.com/lznycx/A13-Flagshipify/changelog.md"
+  "zipUrl": "https://github.com/lznycx/A13-Flagshipify/releases/download/stable/A13-Flagshipify-v1.zip",
+  "changelog": "https://raw.githubusercontent.com/lznycx/A13-Flagshipify/main/changelog.md"
 }
