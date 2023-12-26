@@ -4,4 +4,4 @@ version=v1
 versionCode=1
 author=s1lver
 description=A magisk module and modified cscfeature.xml file which activates various features from flagship Samsung devices/full One UI on Galaxy A13 (One UI 5.1), other devices/One UI versions is not tested
-updateJson=https://raw.githubusercontent.com/lznycx/A13-Flagshipify/master/update.json
+updateJson=https://raw.githubusercontent.com/lznycx/A13-Flagshipify/main/update.json
